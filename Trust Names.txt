@@ -1,0 +1,5 @@
+"TrustName": "Belfast Health and Social Care Trust", "TrustCode": "BHSCT"
+"TrustName": "Western Health and Social Care Trust", "TrustCode": "WHSCT"
+"TrustName": "Southern Health and Social Care Trust", "TrustCode": "SHSCT"
+"TrustName": "Northern Health and Social Care Trust", "TrustCode": "NHSCT"
+"TrustName": "South Eastern Health and Social Care Trust", "TrustCode": "SEHSCT"
